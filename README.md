@@ -1,5 +1,5 @@
 # options-pricing
-Jupyter notebooks for vanilla options under GBM.
+Jupyter notebooks for vanilla options under geometric Brownian motion in ther risk-neutral measure.
 
 European options: Black-Scholes prices with comparison to Monte Carlo prices with error analysis; analytic and finite difference Greeks; implied volatility via Newton's method with bisection fallback; no-arbitrage checks and model validation through put-call parity and monotonicity and convexity in strike.
 
